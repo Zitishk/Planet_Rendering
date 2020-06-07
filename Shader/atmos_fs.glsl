@@ -14,7 +14,7 @@ const float MAX = 10000.0;
 
 float K_R = 0.166; // Rayleigh Scattering constant term
 const float K_M = 0.0025; // Mei Scattering constant
-const float E = 14.4; // Intensity of Sun's light near Earth's surface // 14.4kW/m2
+const float E = 14.4; // Proportional to Intensity of Sun's light near Earth's surface 
 const vec3 C_R = vec3(0.18, 0.26, 1.0); // Rayleigh scattering 1/(lambda^4) terms for RGB light channels
 const float G_M = -0.85;  // g for Mie phase function
 
