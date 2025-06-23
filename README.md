@@ -1,5 +1,8 @@
 # Final
 
+
+This is the project where we built a real time C++ engine which dynamically rendered a planet complete with atmospheric scattering, clouds, terrains, etc.
+
 Following things are implemented as a part of our porject:
 
 1.Earth Atmosphere
